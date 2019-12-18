@@ -6,4 +6,4 @@ Please find the following files:
 * **templates/CONTRIBUTING-template.md**: Template for CONTRIBUTING file
 * **templates/README-template-md**: Template for README file
 
-Might you have any questions, do not hesitate to contact tec@tui.com
+Might you have any questions, do not hesitate to contact TUI DX Engineering Center (tec@tui.com)
