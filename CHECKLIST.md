@@ -1,7 +1,7 @@
 # PRE-LAUNCH CHECKLIST
 
 ### Creation
-- [ ] TUI DX Engineering Center (tec@tui.com) has been informed about your project
+- [ ] TUI MM Engineering Center (tec@tui.com) has been informed about your project
 
 ### Documentation
 - [ ] Project has a LICENSE file with the Apache License 2.0
